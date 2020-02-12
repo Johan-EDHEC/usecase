@@ -1,0 +1,27 @@
+.list {
+
+	padding: 80px 380px;
+	box-shadow: 0px 10px 20px rgba(0,0,0,0.2);
+	border-radius: 6px;
+	list-style-type: none;
+	width: 580px;
+	font-size: 24px;
+
+
+}
+
+
+
+#icon {
+
+	display: flex;
+	align-items: center;
+	padding: 5px 5px 5px 5px;
+}
+
+#icon:hover {
+
+	
+	
+
+}

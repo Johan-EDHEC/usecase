@@ -1,0 +1,38 @@
+.Newsletter {
+
+	width: 190px;
+	margin-right: 20px;
+
+}
+
+#blank {
+
+	color: #373030;
+	text-align: center;
+
+
+}
+
+#fill {
+
+	background-color: rgba(230,230,230);
+	color: white;
+	text-align: center;
+
+
+}
+
+
+
+#request {
+
+background-color: #BA326B;
+  color: #373030;
+  text-align: center;
+}
+
+#request:hover {
+ 
+ font-weight: 600;
+
+}

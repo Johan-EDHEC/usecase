@@ -1,0 +1,13 @@
+.link {
+
+	color: #373030;
+	align-content: center;
+	padding-left: 80px;
+
+}
+
+.link:hover {
+
+	color: #BA326B;
+	margin-left: 10px;
+}

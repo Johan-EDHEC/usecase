@@ -1,0 +1,59 @@
+.card {
+
+	padding: 20px 20px;
+	display: flex;
+	align-items: flex-start;
+	justify-content: space-between;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+	border-radius: 6px;
+	list-style-type: none;
+	position:relative;
+	width: 600px;
+
+
+	
+
+}
+
+.card h3 {
+
+	
+	padding-left: 20px;
+	font-size: 16px;
+	text-align: center;
+
+}
+
+.card li {
+
+	
+    text-decoration-style: none;
+}
+
+.card p {
+
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+	font-size: 8px;
+
+}
+
+#text {
+
+	width: 300px;
+}
+
+#Send { 
+color : #9D1229;
+padding-bottom: 20px;
+font-size: 8px;
+position:absolute;
+bottom: 2px;
+right: 2px;
+
+ }
+
+#list {
+
+list-style-type: none;	
+}

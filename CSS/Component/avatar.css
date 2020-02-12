@@ -1,0 +1,29 @@
+.avatar
+{
+
+	border-radius: 6px;
+	width: 300px;
+
+}
+
+#deux {
+	
+	
+    padding-top: 5px;
+	width: 1340px;
+	height:300px;
+	object-fit: cover;
+	object-position: 20% -130px;
+}
+
+#trois {
+
+	padding-top: 20px;
+	padding-left: 500px;
+}
+
+#imgranking {
+
+	width: 190px;
+	margin: 0px 20px 0px 10px;
+}

@@ -1,0 +1,31 @@
+.apply {
+
+ 	background-color: #BA326B;
+ 	
+ 	font-weight: 600;
+ 	border-radius: 5px;
+ 	margin: 20px 400px 20px 400px;
+ 	padding: 20px;
+    text-align: center;
+    list-style-type: none;
+
+
+ }
+
+ .apply:hover {
+
+ 	background-color: #A51B35;
+ 	color : rgba(250,250,250);
+ 	font-weight: 600;
+ 	border-radius: 5px;
+ 	margin: 20px 400px 20px 400px;
+ 	
+    text-align: center;
+
+ }
+
+ #text {
+
+color : rgba(250,250,250);
+
+ }
